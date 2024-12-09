@@ -4,7 +4,7 @@ class TestORBDDEquivalenceChecker(unittest.TestCase):
     def setUp(self):
         # This runs before each test case
         self.ordering = ["A", "B", "C"]
-
+###
     def test_equivalent_functions_simple(self):
         # Test De Morgan's Law: NOT (A AND B) == NOT A OR NOT B
         expr1 = parse_boolean_function(["A", "B", "AND", "NOT"])  # NOT (A AND B)
