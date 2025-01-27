@@ -1,7 +1,7 @@
 # ROBDD-Based Equivalence Checker
 
 ## Overview
-This project implements a **Reduced Ordered Binary Decision Diagram (ROBDD)** based equivalence checker. The tool takes as inputs:
+This project implements a **Reduced Ordered Binary Decision Diagram (ROBDD)** based equivalence checker in Python. The tool takes as inputs:
 
 1. **Variable Ordering**: The order in which variables appear in the ROBDD.
 2. **Boolean Functions**: Provided in Reverse Polish Notation (RPN) format.
