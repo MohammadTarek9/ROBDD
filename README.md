@@ -19,4 +19,5 @@ Each Boolean function is provided in Reverse Polish Notation (RPN). The operator
 - `XOR` 
 - `NAND` 
 - `NOR`
+
 Example: The Boolean expression `(x1 & x2) | x3` is written as `x1 x2 AND x3 OR`.
