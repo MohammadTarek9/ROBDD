@@ -12,7 +12,7 @@ It generates two ROBDDs, saves them into separate files, and determines whether 
 The variable ordering is provided as a space-separated list of variable names (e.g., `x1 x2 x3`).
 
 ### 2. Boolean Functions (RPN Format)
-Each Boolean function is provided in Reverse Polish Notation (RPN). The operators suppoeted are:
+Each Boolean function is provided in Reverse Polish Notation (RPN). The operators supported are:
 - `AND`
 - `OR`
 - `NOT`
